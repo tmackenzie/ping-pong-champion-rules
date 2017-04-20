@@ -5,9 +5,7 @@
 ## Article 1 - Committee Rulings
 1. Any additional rules must be voted on and win by a 2/3 majority in order to be ratified.
 2. In order to be a voting member, a player must meet *one* of the following requirements:
-    1. Contributing member to the ping-pong-champion-rules git repo.
-    2. Won a championship title at some time in the past.
-    3. A current Vivid Seats employee that has seen the movie [Balls of Fury](http://www.imdb.com/title/tt0424823/)
+    1. Must be a member of the pongers-whiff-whaff slack channel
 
 ## Article 2 - Obtaining Championship Status
 1. Championship matches are played best 3 out of 5, 2 serves each to eleven points as per the [ITTF Handbook](http://www.ittf.com/handbook/).
