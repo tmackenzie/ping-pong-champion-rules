@@ -9,4 +9,4 @@
 - In order to be deemed a voting member, you must meet 1 of the following criteria
 	- Owner of the ping-pong-champion-rules git repo
 	- Played a game with a current voting member
-	- A current Vivid Seats employee who has watched the movie [Balls of Fury] (http://www.imdb.com/title/tt0424823/)
+	- A current Vivid Seats employee who has watched the movie [Balls of Fury](http://www.imdb.com/title/tt0424823/)
