@@ -6,3 +6,7 @@
 - If the champion challenges someone or accepts a challenge and do not play then they forfiet their title to the opponent.
 - The winner must win 3/5 games.
 - If someone wins 3 consecutive games then they must offer a winner takes all match. The winner of the winner takes all match wins the title.
+- In order to be deemed a voting member, you must meet 1 of the following criteria
+	- Owner of the ping-pong-champion-rules git repo
+	- Played a game with a current voting member
+	- A current Vivid Seats employee who has watched the movie [Balls of Fury](http://www.imdb.com/title/tt0424823/)
