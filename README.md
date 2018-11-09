@@ -2,6 +2,7 @@
 
 # Ping Pong Championship Rules
 
+
 ## Article 1 - Committee Rulings
 1. Any additional rules must be voted on and win by a 2/3 majority in order to be ratified.
 2. In order to be a voting member, a player must meet *one* of the following requirements:
