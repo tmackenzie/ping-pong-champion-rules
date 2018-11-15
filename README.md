@@ -12,8 +12,11 @@
 
 ## Article 2 - Obtaining Championship Status
 1. Championship matches are played best 3 out of 5, 2 serves each to eleven points as per the [ITTF Handbook](http://www.ittf.com/handbook/).
-2. If a player bests their opponent by three consecutive games, they are required to offer a 'winner takes all' round. The winner of the 'winner takes all' round becomes the *CHAMPION*.
-3. If during any championship match a player is beaten 11-0, skunk rules go into effect which automatically make the winning player the *CHAMPION*.
+2. Serves must follow the rules defined in Section 2.6 of the [ITTF Handbook](http://www.ittf.com/handbook/).
+    1. Starts with the ball resting freely on an open palm
+    2. Toss ball vertically upwards, without imparting spin, so that it rises at least 16cm (approximately 6in)
+3. If a player bests their opponent by three consecutive games, they are required to offer a 'winner takes all' round. The winner of the 'winner takes all' round becomes the *CHAMPION*.
+4. If during any championship match a player is beaten 11-0, skunk rules go into effect which automatically make the winning player the *CHAMPION*.
 
 ## Article 3 - Immunity & Forfeiture
 1. If a player challenges the *CHAMPION*, the *CHAMPION* may do one of three things:
