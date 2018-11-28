@@ -9,6 +9,7 @@
     1. Contributing member to the ping-pong-champion-rules git repo.
     2. Won a championship title at some time in the past.
     3. A current Vivid Seats employee that has seen the movie [Balls of Fury](http://www.imdb.com/title/tt0424823/)
+3. Tom MacKenzie (user tmackenzie) is not allowed to vote or be a part of any committee rulings.
 
 ## Article 2 - Obtaining Championship Status
 1. Championship matches are played best 3 out of 5, 2 serves each to eleven points as per the [ITTF Handbook](http://www.ittf.com/handbook/).
