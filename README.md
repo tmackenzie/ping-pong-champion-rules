@@ -17,7 +17,7 @@
     2. Toss ball vertically upwards, without imparting spin, so that it rises at least 16cm (approximately 6in)
 3. If a player bests their opponent by three consecutive games, they are required to offer a 'winner takes all' round. The winner of the 'winner takes all' round becomes the *CHAMPION*.
 4. If during any championship match a player is beaten 11-0, skunk rules go into effect which automatically make the winning player the *CHAMPION*.
-5. If a player loses 3 matches in a row to the defending *CHAMPION*, they lose their privalege to challenge until a new *CHAMPION* has been crowned. 
+5. If a player loses 3 matches in a row to the defending *CHAMPION*, they lose their privilege to challenge until a new *CHAMPION* has been crowned. 
 
 ## Article 3 - Immunity & Forfeiture
 1. If a player challenges the *CHAMPION*, the *CHAMPION* may do one of three things:
