@@ -15,7 +15,7 @@
 2. Serves must follow the rules defined in Section 2.6 of the [ITTF Handbook](http://www.ittf.com/handbook/).
     1. Starts with the ball resting freely on an open palm
     2. Toss ball vertically upwards, without imparting spin, so that it rises at least 16cm (approximately 6in)
-3. If a player bests their opponent by three consecutive games, they are required to offer a 'winner takes all' round. The winner of the 'winner takes all' round becomes the *CHAMPION*.
+3. If a player bests their opponent in each of the first three games, they are required to offer a 'winner takes all' round. The winner of the 'winner takes all' round becomes the *CHAMPION*.
 4. If during any championship match a player is beaten 11-0, skunk rules go into effect which automatically make the winning player the *CHAMPION*.
 
 ## Article 3 - Immunity & Forfeiture
