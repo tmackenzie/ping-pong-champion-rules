@@ -18,6 +18,7 @@
     2. Toss ball vertically upwards, without imparting spin, so that it rises at least 16cm (approximately 6in)
 3. If a player bests their opponent in each of the first three games, they are required to offer a 'winner takes all' round. The winner of the 'winner takes all' round becomes the *CHAMPION*.
 4. If during any championship match a player is beaten 11-0, skunk rules go into effect which automatically make the winning player the *CHAMPION*.
+5. If it's your birthday and there is no current champ then you become the champ :cake:.
 
 ## Article 3 - Immunity & Forfeiture
 1. If a player challenges the *CHAMPION*, the *CHAMPION* may do one of three things:
