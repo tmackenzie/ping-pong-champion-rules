@@ -26,5 +26,5 @@
     2. Defer the challenge. The current *CHAMPION* may defer a challenge until the next working day. It is up to the challenger to re-initiate the challenge at a mutually agreed upon time. If a time cannot be agreed upon or work duties prevent the match from occurring, the *CHAMPION* retains Championship status. Note that if the *CHAMPION* is out of office (OOO) the next day and has accepted a challenge, the *CHAMPION* relinquishes Championship status and rule #3 of this section may go into effect.
     3. Forfeit. Forfeiture immediately bestows the rights and privileges of *CHAMPION*ship status to the challenger.
 2. Any non-*CHAMPION* challenges are called 'Exhibition Matches' and do not bestow any rights or privileges to the participants.
-3. If the existing *CHAMPION* is OOO for 3 working days then they relinquish their Championship status. At this time, any two players can escalate an 'Exhibition Match' to a Championship match.
-4. If the existing *CHAMPION* leaves the state of Illinois for a period which will extend beyond 3 working days, they immeidately relinquish their Championship status upon crossing state lines.
+3. If the existing *CHAMPION* is OOO for 2 working days then they relinquish their Championship status at the time they leave the office. At this time, any two players can escalate an 'Exhibition Match' to a Championship match.
+4. If the existing *CHAMPION* leaves the state of Illinois for a period which will extend beyond 2 working days, they immeidately relinquish their Championship status upon crossing state lines.
